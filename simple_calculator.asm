@@ -148,7 +148,7 @@ division:
 	la $a0,($t3)
 	syscall	
 	
-	j exit 						# Jump to exit function
+	j exit 				# Jump to exit function
 
 #exit function	
 exit:
