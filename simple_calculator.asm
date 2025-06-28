@@ -1,6 +1,5 @@
 # data section
 .data
-
 	#declaring string variables
 
 	title: .asciiz "MIPS CALCULATOR : "
