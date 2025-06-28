@@ -18,7 +18,6 @@ resultrem: .ascii "The remainder is: "
 
 #main function
 main:
-	
 	#Displaying the first Prompt message
 	li $v0,4
 	la $a0,prompt1
