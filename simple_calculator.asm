@@ -30,7 +30,6 @@ main:
 	#Storing the input to a temporary register
 	move $t0,$v0
 	
-	
 	#Displaying the operation string
 	
 	li $v0,4
